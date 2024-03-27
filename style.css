@@ -17,7 +17,7 @@ h1{
 .navBar{
   display:flex;
   justify-content:flex-end;
-  border: 6px solid #a30031;
+  border: 6px solid #94002c;
   background-color:#fafafa;
   font-family: agbalumo;
 }
